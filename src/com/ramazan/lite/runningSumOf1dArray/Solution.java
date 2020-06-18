@@ -1,4 +1,4 @@
-package com.ramazan.lite.RunningSumOf1dArray;
+package com.ramazan.lite.runningSumOf1dArray;
 
 import java.util.Arrays;
 
